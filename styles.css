@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+}
+.header{
+	color:white;
+	text-align:center;
+	background-color:#011e29;
+	padding:10px;
+}
+.latest-news-section{
+	display:flex;
+	text-align:center;
+	background-color:#fffffe;
+ 	padding:0px; 
+    width:200px; 
+}
+.box{
+	
+	display:inline-block;
+}
